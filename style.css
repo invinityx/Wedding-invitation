@@ -1,0 +1,79 @@
+html, body {
+   margin: 0;
+   padding: 0;
+   font-family: 'Parisienne', cursive;
+}
+
+.tujuan{
+   background-image: url(images/akudankamu.jpeg);
+   background-repeat: no-repeat;
+   padding-right: 160px;
+   padding-left: 160px;
+}
+.itemcenter{
+   width: 400px;
+   height: 1280px;
+}
+.tujuanisi{
+   padding-top: 100px;
+   text-align: center;
+}
+.tujuanisi h3{
+   font-size: 40px;
+}
+.tujuanisi h1{
+   font-size: 50px;
+}
+.isipengantar{
+   padding-top: 650px;
+}
+
+.isipengantar p{
+   width: 350px;
+   background-color: rgba(245, 245, 245, 0.5);
+   padding: 25px;
+   text-align: center;
+   border-radius: 25px;
+}
+.calon{
+   background-image: url(images/akudankamulagi.jpeg);
+   background-repeat: no-repeat;
+}
+
+.caloncenter{
+   padding: 30px 100px;
+}
+.caloncenter h1{
+   text-align: center;
+   font-size: 50px;
+}
+.fotocenter{
+   padding: 0px 295px;
+}
+.foto{
+   width: 100px;
+   height: 100px;
+   border-radius: 50%;
+   background-color: red;
+}
+
+.foto img{
+   width: 100px;
+   height: 100px;
+   border-radius: 50%;
+}
+
+/*untuk layar device berukuran kecil*/
+@media screen and (min-width: 450px) {
+
+}
+ 
+/*untuk layar device berukuran sedang*/
+@media screen and (min-width: 550px) {
+
+}
+ 
+/*untuk layar device berukuran besar*/
+@media screen and (min-width: 800px) {
+   
+}
